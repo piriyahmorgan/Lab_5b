@@ -13,7 +13,7 @@ Technologies Used
 - HTML/CSS
 - JavaScript
 - Setup Instructions
-- 
+  
 Clone the repository:
 git clone https://github.com/your-username/user-management-system.git
 
